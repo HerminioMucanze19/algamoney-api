@@ -1,5 +1,6 @@
 package com.mucanze.algamoney.api.resource;
 
+
 import javax.servlet.http.HttpServletResponse;
 import javax.validation.Valid;
 
